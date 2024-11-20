@@ -36,6 +36,8 @@ MobaXterm - A terminal for remote computing with support for SSH, X11, and other
 WSL with Zsh (or other Linux shells) - Custom setups within WSL for alternative shells like Zsh or Fish.
 Third-party Terminals (e.g., Hyper, ConEmu, Alacritty) - Enhanced terminal emulators with additional features.
 ```
+#
+![Coder](https://github.com/user-attachments/assets/af7ba0d6-6801-4f49-af03-134bc8db1760)
 
 #
 ### Related Links

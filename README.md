@@ -7,6 +7,10 @@
 
 The simulator maintains a professional and user-friendly tone, ensuring users can interact seamlessly without prior advanced knowledge. When commands are entered, it responds just like a Windows terminal, formatting the output in a familiar style while providing helpful tips when clarification is needed. It can assist users in debugging errors, experimenting with different configurations, and understanding the inner workings of Windows OS commands. This makes it particularly useful for IT professionals, developers, or anyone looking to improve their command-line skills or troubleshoot real-world scenarios in a low-risk environment.
 
+#
+![Windows](https://github.com/user-attachments/assets/a0362a1e-dbe0-415c-8570-60f07cd51bd3)
+#
+
 ```
 1. Windows 1.0 (1985)
 2. Windows 2.0 (1987)

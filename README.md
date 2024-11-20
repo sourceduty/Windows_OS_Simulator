@@ -24,6 +24,18 @@ The simulator maintains a professional and user-friendly tone, ensuring users ca
 14. Windows 10 (2015)
 15. Windows 11 (2021)
 ```
+```
+Command Prompt (cmd.exe) - The traditional Windows command-line interface.
+PowerShell - A more advanced and modern command-line interface and scripting environment.
+Windows Terminal - A unified interface to access multiple terminal environments (e.g., cmd, PowerShell, WSL).
+Windows Subsystem for Linux (WSL) - A compatibility layer to run Linux distributions natively on Windows.
+Azure Cloud Shell - A browser-based shell to manage Azure resources with PowerShell or Bash.
+Git Bash - A Unix-like terminal for Git on Windows.
+Cygwin - A terminal emulator for running Unix/Linux applications on Windows.
+MobaXterm - A terminal for remote computing with support for SSH, X11, and other protocols.
+WSL with Zsh (or other Linux shells) - Custom setups within WSL for alternative shells like Zsh or Fish.
+Third-party Terminals (e.g., Hyper, ConEmu, Alacritty) - Enhanced terminal emulators with additional features.
+```
 
 #
 ### Related Links

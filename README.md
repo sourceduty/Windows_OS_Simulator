@@ -53,6 +53,8 @@ Third-party Terminals (e.g., Hyper, ConEmu, Alacritty) - Enhanced terminal emula
 [OS Developer](https://github.com/sourceduty/OS_Developer)
 <br>
 [Windows](https://github.com/sourceduty/Windows)
+<br>
+[OS Automation](https://github.com/sourceduty/OS_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
